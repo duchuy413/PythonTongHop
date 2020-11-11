@@ -1,0 +1,1502 @@
+app_name
+no_network_connection
+ok
+no_thanks
+select_a_file
+upload_err
+billing_not_supported_message
+buy
+close4buttons
+please_wait
+recording
+record_a_song
+search_for_songs
+no_record
+no_downloaded
+some_error_occured
+not_supported_file_type
+thank_you
+sure_want_quit
+yes
+no
+cancel
+playing
+save_record_as
+file_name_empty
+turn_off_autoplay
+auto_play
+save
+upload_succeeded
+upload_failed
+hope_like_this_song
+create_with_pianist
+file_not_found
+confirm
+error
+network_down
+processing
+loading
+downloading_files
+left_hand
+right_hand
+piano
+hand_drum
+drum
+violin
+bass
+macaras
+organ
+guitar
+sax
+harmonica
+bell
+trumpet
+accordion
+brass
+cello
+flute
+harp
+panpipe
+vibraphone
+other_instruments
+browse_file
+length
+vibration
+note_naming
+single
+copyright
+double_classic
+double_mirror
+triple
+retry_retry
+dont_show_notification
+others
+select_your_language
+left_left
+right_right
+purchased_item
+downloaded_item
+language
+processing_request
+error_occured_download
+tapjoy_download_failed
+help_help
+attempting_open_youtube
+search
+enter_keyword
+data_file_corrupted
+downloading
+new_update
+not_purchased
+sure_want_to_purchase
+sure_want_to_redownload
+db_error
+insufficient_internal_mem
+insufficient_external_mem
+restore
+not_enough_ruby
+pause_download
+sound_files_corrupted
+cmd_delete_song
+my_loaded_midi
+my_favourite
+my_recorded
+not_enough_ruby_enter_challenge
+song_list
+free_cloud_sharing
+online_search
+musescore_empty
+hq_sounds
+midi_sounds
+sample_files
+delete_song_confirm
+delete_record_confirm
+delete_record_success_message
+delete_fav_success_message
+delete_file_success_message
+set_favourite_message
+information_dialog_title
+not_activated_message
+report_an_issue
+faq
+got_idea
+getfreeruby
+upload
+review_pianist_title
+yes_sure
+review_pianist_description
+remind_me_late
+long_click_instument
+search_google_guide
+using_other
+midi_search_engine
+load_more
+select_instrument_title
+loadding_search
+instrument_play_sample_network
+instrument_loadding_sample
+start_a_search
+rock_song_des
+remove_ads
+play
+confirm_play_random
+device_id
+cannot_open_selected_file
+i_love_this_app
+please_like_face
+please_follow_twitter
+has_install_our_app
+file_not_play
+do_not_restore_item
+share_face_sucess
+share_twitter_sucess
+end_of_song
+support
+shop_free_buby_tip
+earn
+cancel_share
+share_error
+buy_item_all_song
+buy_item_ads
+buy_item_free_band
+buy_item_midiloader
+free_vote_app
+free_install_app
+start_search
+midi_trial_message
+open_shop
+do_it_later
+alert_title
+please_wait_moment_message
+no_song_found_message
+process_file_failure
+download_pending
+twitter_error
+tu_tap_to_play_title
+tu_tap_to_play_message
+tu_open_instrument_list_title
+tu_open_instrument_list_message
+tu_open_song_list_title
+tu_open_song_list_message
+tu_open_shop_title
+tu_open_hq_sound_title
+tu_open_hq_sound_message
+tu_song_book_title
+tu_song_book_message
+tu_song_cloud_title
+tu_open_midi_title
+tu_keyboard_size_title
+tu_keyboard_size_message
+tu_slide_to_move_title
+tu_slide_to_move_message
+tut_pan_to_zoom_title
+tut_pan_to_zoom_msg
+tut_swipe_to_resize_title
+tut_swipe_to_resize_msg
+update_tappoint_false
+please_install_game
+file_exists
+easy_group
+default_collection
+free_bands
+all_songs
+midi_loader
+you_have_received
+replay
+random_song
+more_apps
+learn_guitar
+upright_piano
+drawing_for_kids
+piano_for_kids
+open_midi_files
+welcome_try_first_song
+digital_piano
+other_app
+find_midi
+confrirm_post_face_mes
+post_face_yes
+close
+instrument_tuto_hight
+instrument_tuto_midi
+songs_songs
+confirm_post_face
+i_agree
+no_never
+dialog_confirm_post_mes
+dialog_confirm_post_face
+dialog_confirm_post_twi
+share_face_thanks
+share_twitter_thanks
+dialog_buy_btn3
+sharing_group
+concert_piano
+star_1
+send_send
+your_comment
+sheet_mode
+touch_others
+touch_Settings
+cannot_play_in_mode
+file_exported_to
+cannot_export_file_to
+failed_to_verify
+christmas_collection
+kids_collection
+classical_collection
+playing_range
+from_to
+dont_show_range_dialog
+state_not_downloaded
+soundfont
+title_activity_dialog_change_log
+dialog_change_log_title
+dialog_change_log_confirm
+vg_title_instrument
+vg_title_song
+shop_buy_instrument_for
+shop_play_more_song_to_get_ruby
+permission_details
+description_permission_phone_state
+description_permission_storage
+shop_subscribe_not_supported_message
+shop_subscribe
+shop_renew
+shop_subscribed
+shop_subs_ended_msg
+shop_subs_renew_msg
+shop_subs_ads_1month
+shop_subs_ads_1week
+shop_subs_ads_1year
+shop_subs_ads_1month_details
+shop_subs_ads_1week_details
+shop_subs_ads_1year_details
+shop_upgprade
+title_tapjoy_connection_failed
+msg_tapjoy_connection_failed
+title_try_new_sound_engine
+msg_try_new_sound_engine
+new_update_available
+dont_show_again
+first_title_dialog_notice_update
+second_title_dialog_notice_update
+description_dialog_notice_update
+intermediated_level
+mysong_tab
+mysong_tab_downloaded_songs
+mysong_tab_recent_songs
+play_this_track_midi
+play_all_track_midi
+listen
+stop
+share
+search_on_google
+search_for_midi_songs
+how_to_get_midi_files
+filter_by_country
+world_wide
+msg_file_removed
+open_other_file
+string_item_default_favourite
+string_item_default_recent
+search_error_retry
+no_song
+search_locations
+tap_to_seach_online
+title_activity_test_quick_search
+title_activity_test_get_data_local
+midi_and_kar
+freesheet
+view_more_result_google
+no_songs_matchs_search
+get_more_songs
+title_activity_test_challenge_button
+button_claim
+button_challenge
+reward
+challenge_dialog_error_message
+try_again
+title_activity_test_list_challenge
+today_challenge
+challenge_result
+title_activity_test_in_game_for_challenge
+place_1st
+place_2nd
+place_3rd
+completed_song
+songbook
+dialog_login_sign_in_with_google
+dialog_login_facebook_connect
+later
+popular_keywords
+title_dialog_report_err
+preview_error
+message_dialog_report_err
+watch_sponsored_video
+watch_sponsored_video_detail
+watch_now
+popup_rename
+beta_version_feedback
+would_you_mind_to_share
+your_feedback_will_help_us
+what_do_you_thinks_about_new_beta_version
+bad
+good
+i_prefer_current_version
+i_love_new_beta_version
+what_do_you_love_in_new_version
+what_do_you_dislike_in_new_version
+what_do_you_thinks_make_ver_better
+next
+previous
+it_difficult
+app_crash
+i_prefer_old_design
+overal_design
+instrument_list
+thanks_for_feedback
+dialog_beta_option_later
+your_email
+skip
+s_continue
+sending_your_feedback
+reward_video_title
+reward_video_message
+buy_song_pack_confirm
+beta_version
+beta_feedback_summary
+beta_feedback_title
+open_stable_title
+open_stable_summary
+setting_volume_control_title
+setting_volume_control_summary
+setting_volume_auto_title
+setting_volume_auto_summary
+title_daily_challenge
+description_item_daily_challenge
+title_note_waiting
+description_note_waiting
+description_not_wait_note
+show_peadal
+guide_note
+advance_setting
+keyboard_mode
+option_not_load_songs_yet
+only_available_single
+premium_member
+single_mode
+single_mode_no_tile
+single_mode_sheet
+description_single_mode
+description_single_mode_without
+resume
+restart
+quit
+note_hit
+on_time
+combo
+score
+total_score
+challenge_empty_message
+years
+year
+months
+month
+weeks
+week
+days
+day
+message_encouragement_rank_1
+message_encouragement_rank_2
+message_encouragement_rank_3
+message_encouragement_rank_top_10
+message_encouragement_rank_other
+message_challenge_coming_to_end
+rank
+title_dialog_ask_enable_notification
+description_dialog_ask_enable_notification
+dont_show_gain
+ready_upcase
+parse_server_url_release
+parse_server_url_test
+parse_app_id
+parse_function_endpoint
+parse_class_endpoint
+parse_app_header_request_key
+parse_func_signup
+parse_func_backup_settings
+parse_func_restore_settings
+parse_func_get_tapjoy_balance
+parse_func_get_tapjoy_account
+parse_func_link_identify_device
+parse_func_get_link_identify_devices
+parse_func_set_claimed_reward
+parse_func_get_challenge_records
+parse_func_update_challenge_record
+parse_func_get_current_challenge
+parse_func_send_feedback_flat
+select_track_for_right_hand
+select_track_for_left_hand
+turn_on
+turn_off
+can_not_upload_sample_file
+upload_song
+input_song_info
+song_title
+author_or_artist
+specify_track_for_play
+specify_track_des
+track_detail
+track_turn_off_not_play
+select_track_to_play
+muted
+recommend_right_hand
+recommend_left_hand
+s_liked
+liked_song
+can_not_mute_all_track
+s_suggest_help_translate
+upgrade_to_vip_member
+vip_member
+membership_trial
+one_hour_pass
+intro_vip_member
+no_ad_available
+consumed_ruby_to_challenge
+button_cool
+dialog_result_button_adreward
+accuracy
+rate_filter_title
+negative_feedback_tittle
+negative_feedback_suggestion
+give_feedback
+tut_song_book_search_title
+tu_song_book_search_msg
+tut_instrument_midi_title
+tut_instrument_midi_msg
+tut_instrument_sf_title
+tut_instrument_sf_msg
+rewind
+forward
+menu_bar
+left_op
+right_op
+transfer_successful
+ruby_you_got_from_guest_account
+-------------------------------------
+"Pianist HD: Piano Teacher"
+"There is no internet connection. Please connect to internet and try again."
+"OK"
+"No, Thanks"
+"Select a file"
+"Facebook Error: cannot post your status on Facebook. Please check permission or network connection.
+	"
+"Billing service is not available for your country. You can continue using this app but cannot make any purchases.
+	"
+"Buy"
+" X "
+"Please wait..."
+"Recording..."
+"Record a song"
+"Search for Songs"
+"No record. Record a new song!"
+"No song. Get a song from Online & Search channel"
+"Some error occurred. Check your internet connection"
+"File type not supported. Please select a .midi or .kar file."
+"Thank you!"
+"Are you sure you want to quit?"
+"Yes"
+"No"
+"Cancel"
+"Playing"
+"Save your recording as"
+"The file name is empty."
+"Autoplay is turned off."
+"Autoplay "
+"Save"
+"Upload progress succeeded"
+"Upload progress failed"
+"I hope you like this song"
+"Created with Pianist HD: Piano Teacher on my Android"
+"File not found!"
+"Confirm"
+"Error"
+"Check Your Connection and Try Again!"
+"Processing"
+"Loading..."
+"Downloading..."
+"Left Hand"
+"Right Hand"
+"Piano"
+"Hand drum"
+"Drum"
+"Violin"
+"Bass"
+"Maracas"
+"Organ"
+"Guitar"
+"Sax"
+"Harmonica"
+"Bell"
+"Trumpet"
+"Accordion"
+"Brass"
+"Cello"
+"Flute"
+"Harp"
+"Panpipe"
+"Vibraphone"
+"All 128 others"
+"Browse file"
+"Length:"
+"Vibration"
+"Note Naming"
+"Single"
+"© 2020 Rubycell Entertainment"
+"Double (Classic)"
+"Double (Mirror)"
+"Triple"
+"Retry"
+"Don't show this notification again"
+"Others"
+"Please select your language"
+"Left"
+"Right"
+"Purchased"
+Downloaded
+"Language"
+"Processing your request ..."
+"An error occurred while downloading the contents of the acquired item. Please try again
+		later.
+	"
+"Download TJ-Items Failed"
+"Help"
+"Tutorial Video is loading. Please hang tight!"
+"Search"
+"Type your keywords here"
+"File corrupted"
+"Downloading..."
+"New update"
+"Not purchased"
+"Are you sure you want to purchase"
+"Are you sure you want to re-download"
+"Database error! Please try again later."
+"Not enough spaces on your device's internal memory. Please delete unused
+		files.
+	"
+"Do not enough spaces on your SD-Card. Please delete unused files."
+"Restore"
+"You don't have enough RUBY to purchase this item!"
+"Are you sure you want to stop all download progress now?"
+"Sound files are corrupted. Do you want to re-download them now?"
+"Delete"
+"My loaded files"
+"My favorite"
+"My recorded"
+"You don't have enough RUBY to enter challenge!"
+"Built-in Library"
+"Cloud Sharing"
+"Online & Search"
+"No sheet music found"
+"High Quality Sounds"
+"MIDI Sounds"
+"Sample files"
+"Do you really want to delete this song?"
+"Do you really want to delete this record?"
+"Deleted successfully"
+"Removed successfully!"
+"Removed successfully!"
+"The record has been added to your favorite group."
+"Information"
+"has not been activated!"
+"Report an issue"
+"FAQ"
+"I got an idea for Piano Teacher"
+"Get Free RUBY"
+"Upload"
+"Rate Piano Teacher"
+"Yes, sure !"
+"If you enjoy using Piano Teacher, would you mind taking a moment to rate it? It
+		won't take more than a minute.
+Thanks for your support!
+	"
+"Remind me later"
+"Tip: Long click on an instrument to play sample song."
+"Please enter the name of the song you love and press search button"
+"Using other"
+"\"MIDI Search Engine\""
+"Load more ..."
+"Select an instrument"
+"Loading search result(s)..."
+"Network connection is required to playback this sample."
+"Loading sample"
+"Start a search"
+"Enjoy Piano Teacher with newest tunes by loading a MIDI .mid or .kar file. Enter an artist or a song name
+		to search on %s
+	"
+"Remove ADs"
+"Play"
+"No selected song, play any now!"
+"Device ID:"
+"Unable to open file"
+"I love this app!"
+"Please click Like or Subscribe button on our Facebook to receive RUBY."
+"Please click Follow button on our Twitter to receive RUBY."
+"You have installed our app completely. You should receive RUBY. Thank you!"
+"You can only play this song in Practice or Perform mode."
+"An error occurred while restoring your items! Please check your connection and open the Shop
+		to retry.
+	"
+"Thank you for your support on Facebook social network. You should receive RUBY."
+"Thank you for your support on Twitter social network. You should receive RUBY.
+	"
+"Great performance!"
+"Free RUBY"
+"There are many ways to earn RUBY. All you need is do as the following: install and
+		run the app or share the app with your friends.
+	"
+"Earn"
+"Sharing canceled, no RUBY rewarded"
+"Oops! Some error occurred, you will not receive RUBY."
+"Unlock all songs now!"
+"Remove all ads now!"
+"Unlock all instruments now!"
+"Load and play your midi file"
+"Please review this app to receive RUBY."
+"Please install this app to receive RUBY."
+"Start a search to find the song you love."
+"Please wait for 5 minutes to play full midi track OR play 60s demo of the song
+		immediately‎.
+	"
+"Purchase MIDI loader."
+"Play 60s demo"
+"Alert"
+"Please wait a moment..."
+"No songs found"
+"Cannot process the selected file."
+"Download pending..."
+"cannot post your status, please check your network connection."
+"Hint Key"
+"Tap on the hint key to play the right note"
+"Instruments"
+"Tap here to open the instrument list"
+"Song Book"
+"Tap here to open the song list."
+"Shop"
+"High quality sounds"
+"Tap to open high-quality (HQ) sound instruments list."
+"Song Book"
+"You can find your favorite song(s) here."
+"Cloud sharing"
+"Browse your files"
+"Keyboard size options"
+"Make piano keys thicker, thinner, higher or lower"
+"Move keyboard"
+"Drag one finger from left-to-right, right-to-left in order to move the keyboard"
+"Zoom keyboard"
+"Use two fingers to zoom in or zoom out the piano keyboard"
+"Resize keyboard"
+"Use three fingers to change the height of piano keyboard"
+"Update RUBY balance failed, Please try again later."
+"Install and run any game to get free RUBY"
+"File already exists. Please enter another file name."
+"Easy Level"
+"Hard Level"
+"Free Bands"
+"All songs"
+"Midi Loader"
+"You have received"
+"Replay Song"
+"Random Song"
+"New Great Apps"
+"Learn To Play Guitar"
+"Upright Piano"
+"Drawing For Kids"
+"Piano For Kids"
+"MIDI Files"
+"Welcome to Pianist HD: Piano Teacher! You may like to try your first song here."
+"Digital Piano"
+"Cool Apps"
+"Find and select a .mid or .kar file on your device to play with Piano Teacher"
+"We will post \"I love this app\" and with Piano Teacher's link to your Facebook Wall"
+"OK, I agree this time only"
+"Close"
+"Current sound theme: High-Quality (HQ) Sounds/"
+"Current sound theme: MIDI sounds/"
+"songs"
+"You have allowed us to post on your Facebook wall: \"I love this app\" with Piano Teacher's link."
+"I Agree"
+"No, never"
+"Thank you for your love with Pianist HD: Piano Teacher."
+"Recommend on my Facebook"
+"Recommend on my Twitter"
+"Thank you for your support on Facebook social network."
+"Thank you for your support on Twitter social network."
+"Earn some RUBY for FREE"
+"Sharing group"
+"Concert Piano"
+"Bad, 1 star only"
+"Send"
+"Your comment:"
+"Sheet music"
+"Support"
+"Settings"
+"Unable to play the file in this mode!"
+"File was exported to"
+"Unable to export file"
+"Failed to verify the purchase. Please contact us at support@rubycell.com."
+"Christmas Carol Collection"
+"Kids Song Collection"
+"Classical Collection"
+"Playing range"
+"Play all notes from %1$s to %2$s, this song has only 1 track"
+"Don't show this dialog again"
+"Not downloaded"
+"Soundfont"
+"DialogChangeLogActivity"
+"What is new"
+"Got it"
+"Instruments"
+"Songs"
+"Buy in the Shop"
+"Play more song to get more FREE RUBY"
+"Pianist HD: Piano Teacher requires following permissions: 
+%s
+
+If you have any question, please
+		contact us at support@rubycell.com
+	"
+"Read phone status and identity: help to generate a unique ID used to
+		identify specific customers (especially for repeat customers) when purchasing items.
+	"
+"Read and modify the content of your USB storage: allow the application to
+		download necessary and updated data.
+	"
+"We are sorry! Subscription not supported on your device yet.
+	"
+"Subscribe"
+"Renew"
+"Subscribed"
+"Your subscription will be ended at %s"
+"Your subscription will be automatically renewed at %s"
+"%s month ad-free subscription"
+"1 week ad-free subscription"
+"3-days FREE Subscription trial"
+"Remove all advertisements in %s month"
+"Remove all advertisements in 1 week"
+"Remove all advertisements in 1 year"
+"Upgrade"
+"Opp! RUBY balance synchronization failed!"
+"Ad blocker may stop Ruby synchronization. Please remove Ad blocker on your
+		device to synchronize Ruby
+	"
+"Try new Beta Sound Engine"
+"New Sound Engine : Fix wrong note issue and slow loading at the
+		beginning on some devices.
+
+In case of any problem with updated feature,
+Please go to in-app %s -> %s -> uncheck
+		\"%s\" and restart Piano Teacher to restore the previous settings
+	"
+"New Update available"
+"Don't show again"
+"Get"
+"55 %s for the first login"
+"Login now to sync data (Ruby, Settings) across all devices"
+"Intermediated Level"
+"My Songs"
+"Downloaded songs"
+"Recent songs"
+"Just play
+this track"
+"Play track 
+with others"
+"Listen"
+"Stop"
+"Share"
+"Search on Google"
+"Search for MIDI songs"
+"How to get MIDI files"
+"Filter by country"
+"International music"
+"The file is no longer available. This song will be removed from Songbook"
+"Open other file"
+"No favorite song yet!"
+"No song played yet!"
+"Search key not found for this country. Try another keyword, please!"
+"No song yet!"
+"Search from:"
+"Tap Search to view more results from Online & Sharing"
+"TestQuickSearchActivity"
+"TestGetDataLocalActivity"
+"MIDI & KAR"
+"FreeSheets.net"
+"View more results from Goole"
+"No song matchs your search. You may try search it on Google"
+"get more songs"
+"TestChallengeButtonActivity"
+"Claim Reward"
+"Challenge Now!"
+"Reward"
+"Unable to retrieve data. Please try again later!"
+"try again"
+"TestListChallenge"
+"Today challenge"
+"Challenge Result"
+"TestInGameForChallengeActivity"
+"1st place"
+"2nd place"
+"3rd place"
+"Completed song"
+"Songbook"
+"Sign in with Google"
+"Facebook Connect"
+"Later"
+"Top keywords"
+"Do you want to report the problem?"
+"We are sorry. Your device can't preview this song due to an unexpected error."
+"Please describe and attach more details such as device model; Android version; app version. They may help us fully understand and fix error more quickly."
+"Watch a sponsored video"
+"Complete watching this sponsored video to earn RUBY"
+"Watch now"
+"Rename"
+"Beta Version feedback"
+"Would you mind sharing us what you think about new Beta Version?"
+"Your feedback will help us improve Pianist HD: Piano Teacher"
+"What do you think about new Beta Version?"
+"Not good"
+"Good"
+"I prefer the current version"
+"I love it!"
+"What do you love in the new version?"
+"Why aren't you interested in the new version?"
+"What should we do to make this version better?"
+"Next"
+"Previous"
+"It's difficult to use"
+"Oops! an error has occurred. Please, re-open the app
+"
+"I prefer the old design"
+"Overall design"
+"Instrument list"
+"Thank you for your feedback!"
+"Maybe later"
+"Your Email"
+"Skip"
+"Continue"
+"Sending your feedback..."
+"Thanks! You got %s RUBY as a reward. To keep our brain up and running, a beer is in-need to fuel our creativity and efforts for improving user experience. Viewing an ad helps keep our brain work for you."
+"Thanks for watching!"
+"Confirm"
+"Beta Version"
+"Your feedback is very valued to us, please drop us a few words here
+    "
+"Beta feedback"
+"Open stable version"
+"Open current stable version of"
+"Keyboard Volume Control"
+"Change volume by pressing postion. Low pressing postion creates louder
+        sound
+    "
+"Auto Volume Control"
+"Auto-set volume by the song data"
+"Daily Challenge"
+"Compete with other people & earn extra RUBY"
+"Note waiting"
+"Music note hints will stop and wait for your action"
+"Music note hints will fall down continuously"
+"Show Pedal"
+"Show Guide Note"
+"Advanced Settings"
+"Keyboard Mode"
+"%s setting will take affect when you play a song"
+"Only available in Single Keyboard Mode"
+"Premium Member"
+"Single"
+"Single without tiles"
+"Single Sheet music"
+"Single row keyboard with note hints"
+"Single row keyboard with without note hints"
+"resume"
+"restart"
+"quit"
+"Note hit"
+"On Time"
+"Combo"
+"Score"
+"Total score"
+"Take up the Challenge and Win!"
+"Years"
+"Year"
+"Months"
+"Month"
+"Weeks"
+"Week"
+"Days"
+"Day"
+"Fantastic! You are the champion"
+"Awesome! You won the silver medal"
+"Great Effort!! You got the bronze medal"
+"Great job! You're in top 10. Try harder next time to get more reward"
+"High Five!! You got rank #%s. Keep scoring!"
+"Today competition will end soon. Please wait for the next competition."
+"Rank"
+"Enable notifications"
+"Enable notifications for %s to receive challenge songs, rewards and other updates from us?"
+"do not show again"
+"READY"
+"https://apis-piano.rubycell.com/parse"
+"http://apis-piano.rubycell.com/test"
+"BC3YGNnyial04sSQbcCdgOs9pnwEAqENIXEJRPpp"
+"/functions"
+"/classes"
+"X-Parse-Application-Id"
+"/signup"
+"/backup_settings"
+"/restore_settings"
+"/get_tapjoy_balance"
+"/get_tapjoy_user_account"
+"/link_identify_device"
+"/get_link_identify_devices"
+"/setClaimedRewardAndGetTodayChallengeData"
+"/getChallengeRecordData"
+"/updateChallengeRecord"
+"/getChallengeSongAndTopThreeRecord"
+"/sendFeedbackForFlatUiVersion"
+"Select track for right hand"
+"Select track for left hand"
+"Turn on"
+"Turn off"
+"Unable to upload sample file"
+"Upload Song"
+"Input song information"
+"Song title"
+"Author or Artist"
+"Specify tracks for playing"
+"Specifying tracks for hands will help other people find out which tracks to play"
+"Track details"
+"Tracks which are turned off can't play in background"
+"Select track to play"
+"Muted"
+"Recommended for right hand"
+"Recommended for left hand"
+"Liked"
+"Liked Songs"
+"Unable to mute all track"
+"We need your help to translate into %s. Give us a hand and get extra RUBY as return gift!"
+"MIDI song playback"
+"Dear Valued Customer,"
+"Buy a drink for developer"
+" to Play"
+"This song stored in a file with MIDI format. Play with a .midi file is still in beta testing, please play with forgivingness and email us any error."
+"Sorry, no more ad video are available to watch for now. Please try again later."
+"Consumed %d rubies to enter challenge mode"
+"Next"
+"Watch an Ad to x%d"
+"Accuracy"
+"Do you enjoy %s ?"
+"Why don't you enjoy %s ?"
+"Could you tell us what makes you unsatisfied?"
+"Give feedback"
+"Search song"
+"You can find more online songs here"
+"Midi sounds"
+"Tap here to open midi sound instruments list"
+"Soundfont manager"
+"Tap here to magage to soundfonts"
+Rewind
+Forward
+Menu Bar
+Left Op
+Right Op
+Transfer successful
+Ruby you got from guest account
+-------------------------------------
+-------------------------------------
+Piano Teacher
+Hiện tại không có mạng. Vui lại thử lại sau.
+OK
+Không, cảm ơn
+Chọn một file
+Facebook Lỗi: không thể gửi trạng thái của bạn, hãy kiểm tra facebook của bạn hoặc kết nối mạng.
+Các dịch vụ không thể truy cập. Bạn có thể tiếp tục sử dụng ứng dụng này, nhưng bạn sẽ không thể mua hàng.
+Mua
+NOT TRANSLATED!!!
+Vui lòng đợi...
+Đang ghi âm...
+GHI ÂM BÀI MỚI
+TÌM BÀI HÁT
+Chưa có ghi âm. Ghi âm bài mới ngay
+Mục Tải về đang trống. Thêm nhạc từ Online & Search
+Một vài lỗi đã xảy ra. Vui lòng kiểm tra lại kết nối mạng.
+Định dạng file không được hỗ trợ. Xin hãy chọn file có định dạng .midi hoặc .kar.
+Cảm ơn! 
+Bạn có muốn đóng ứng dụng?
+Có
+Không
+Hủy
+Đang chơi 
+Lưu tệp 
+Tên file bị bỏ trống
+Tự động chơi đã tắt.
+(Tự động)
+Lưu
+Tiến trình tải lên thành công
+Tiến trình tải lên đã thất bại
+Mình hi vọng bạn sẽ thích bài hát này
+Tạo bởi Piano Teacher trên thiết bị của tôi
+Không tìm thấy file!
+Xác nhận
+Lỗi
+Mất kết nối mạng. Vui lòng thử lại sau.
+Đang xử lý...
+Đang khởi tạo...
+Đang tải....
+Tay trái
+Tay phải
+Piano
+Trống tay
+Trống
+Violin
+Bass
+Maracas
+Organ
+Ghi ta
+Sax
+Harmonica
+Chuông
+Trumpet
+Accordion
+Brass
+Cello
+Sáo
+Đàn hạc
+Panpipe
+Vibraphone
+Khác
+Chọn file
+Chiều dài:
+Độ rung
+Hiển thị tên phím
+Đơn
+NOT TRANSLATED!!!
+Bàn phím đôi
+Đối diện
+Ba hàng
+Thử lại
+Không hiện thông báo này nữa
+Khác
+Hãy lựa chọn ngôn ngữ của bạn
+Trái
+Phải
+Đã mua
+Đã tải
+Ngôn ngữ:
+Yêu cầu của bạn đang được xử lý ...
+Lỗi xảy ra khi tải vật phẩm.
+Quá trình tải thất bại
+Trợ giúp
+Chúng tôi đang cố gắng để mở một video hướng dẫn trên youtube. Xin vui lòng chờ trong giây lát!
+Tìm kiếm
+Hãy nhập từ khóa
+Lỗi
+Đang tải
+Có bản cập nhật
+Chưa mua
+Bạn có chắc muốn mua 
+Bạn có muốn tải lại dữ liệu 
+Cơ sở dữ liệu có lỗi. Xin vui lòng thử lại sau
+Không đủ dung lượng trống. Hãy xóa bớt file.
+Không đủ dung lượng trống. Hãy xóa bớt file.
+Khôi phục
+Bạn không đủ RUBY để mua
+Bạn muốn dừng toàn bộ tiến trình hiện tại ?
+Các file âm thanh bị lỗi. Bạn có muốn tải lại chúng không ?
+Delete
+Đã chơi
+Yêu thích
+Ghi âm
+NOT TRANSLATED!!!
+Nhạc có sẵn
+Chia sẻ
+Online & Tìm Kiếm
+Không tìm thấy bài hát nào
+Chất lượng cao
+Mặc định
+Tệp mẫu
+Bạn có muốn xóa bài hát này ?
+Bạn có muốn xóa bản ghi âm này ?
+Bản ghi đã được xóa.
+Bài hát đã bị đưa ra khỏi danh sách yêu thích.
+File được chọn đã bị xóa. 
+Bài hát đã được thêm vào danh sách yêu thích.
+Thông tin
+ chưa được kích hoạt!
+Phản hồi
+FAQ
+Tôi có một ý tưởng
+Kiếm thêm RUBY
+Tải lên
+Đánh giá Piano Teacher
+Chắc chắn rồi !
+Nếu bạn yêu thích Piano Teacher, hãy dành chút thời gian để đánh giá về nó\nXin cảm ơn!
+Để sau
+Mẹo: Bấm và giữ lâu để nghe thử nhạc cụ.
+Hãy nhập tên bài hát mà bạn yêu thích và bấm nút tìm kiếm.
+Sử dụng 
+\"Tìm kiếm MIDI file\"
+Thêm nữa ...
+Lựa chọn một nhạc cụ
+Đang tải kết quả tìm kiếm
+Xin hãy bật kết nối mạng.
+Đang tải bài
+Tìm kiếm
+Tìm kiếm các bài hát mới nhất ở định dạng .Midi hoặc .Kar tại trang %s
+Bỏ quảng cáo
+Chơi
+Bạn chưa chọn bài hát nào. Chơi một bài bất kỳ
+Mã số: 
+Không thể mở file đã chọn. Xin hãy chọn một file khác!
+Tôi yêu ứng dụng này!!!
+Xin hãy bấm "Like" hoặc "Subscribe" trên Facebook của chúng tôi để nhận RUBY.
+Xin hãy "Follow" chúng tôi trên Twitter để nhận RUBY.
+Bạn đã cài ứng dụng thành công. Chúng tôi sẽ tặng RUBY cho bạn. Xin cảm ơn.
+Bạn chỉ có thê chơi bài hát này ở chế độ "Luyện tập" hoặc "Thể hiện".
+Có lỗi xảy ra khi khôi phục các vật phẩm của bạn. Xin hãy kiểm tra lại kết nối mạng, sau đó vào lại cửa hàng.
+Xin cảm ơn sự hỗ trợ của bạn. Chúng tôi sẽ tặng bạn RUBY. Xin cảm ơn.
+Xin cảm ơn sự hỗ trợ của bạn. Chúng tôi sẽ tặng bạn RUBY. Xin cảm ơn.
+ Kết thúc!
+Kiếm RUBY
+Có nhiều cách để kiếm thêm RUBY. Bạn chỉ cần thực hiện một số thao tác đơn giản như: cài và chạy ứng dụng hoặc chia sẻ với bạn bè.
+Kiếm
+Bạn vừa dừng chia sẻ nên sẽ không nhận được RUBY.
+Oops! Có lỗi xảy ra. Bạn sẽ không nhận được RUBY
+Kích hoạt toàn bộ các gói bài hát
+Loại bỏ toàn bộ quảng cáo trong ứng dụng
+Kích hoạt tất cả các nhạc cụ
+Chơi các file Midi, Karaoke.
+Hãy đánh giá ứng dụng này.
+Hãy cài ứng dụng này để nhận RUBY.
+Hãy bắt đầu tìm kiếm mà bạn yêu thích.
+Xin hãy chờ 5 phút để chơi toàn bộ bài hoặc tiếp tục chơi thử 60s ngay bây giờ‎.
+Mua gói chơi MIDI.
+Chơi thử 60s
+Cảnh báo
+Xin hãy chờ giây lát...
+Không tìm thấy bài hát nào
+Không thể xử lý file vừa chọn.
+Đang chờ...
+ Không thể đăng trạng thái của bạn. Vui lòng kiểm tra lại kết nối mạng 
+Gợi ý
+Hãy bấm vào các phím được gợi ý để chơi đúng giai điệu
+Nhạc cụ
+Hãy bấm vào đây để mở danh sách các nhạc cụ
+Bài hát
+Hãy bấm vào đây để mở danh sách các bài hát
+Cửa hàng
+Nhạc cụ VIP
+Hãy chọn thẻ này để mở danh sách các nhạc cụ có chất lượng âm thanh cao
+Bài hát
+Đây là nơi bạn có thể tìm thấy các bài hát sẵn có hoặc các gói đã được mua.
+Chia sẻ
+Duyệt file
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Di chuyển
+Hãy trượt ngón tay sang hai phía để di chuyển các phím đàn đến vị trí mong muốn
+Thu/phóng bàn phím
+Sử dụng hai ngón tay để phóng to hoặc thu nhỏ bàn phím Piano
+Đổi chiều cao
+Sử dụng 3 ngón tay để thay đổi chiều cao bàn phím
+Cập nhật RUBY thất bại. Xin hãy thử lại sau!
+Hãy cài game nào đó để nhận được RUBY
+File đã tồn tại. Vui lòng chọn một tên khác
+Mức độ dễ
+Mức độ khó
+Tất cả nhạc cụ
+Tất cả bài hát
+Xử lý file MIDI
+Bạn đã nhận được 
+Chơi lại
+Bài ngẫu nhiên
+Ứng dụng hay
+Học chơi Guitar
+Upright Piano
+Vẽ cho trẻ em
+Đàn piano cho trẻ em
+File MIDI
+Chào mừng bạn! Hãy bấm vào đây để thử chơi một bài hát.
+Piano Số
+App khác
+Tìm và chọn một tập tin .mid hoặc .kar trên thiết bị của bạn để chơi với Piano Teacher
+Chúng tôi sẽ đăng khuyến nghị với một liên kết đến Piano Teacher trên Google Play Store trên tường facebook của bạn với nội dung: \"I love this app\"
+OK, Tôi đồng ý chỉ một lần này
+Đóng
+Âm thanh hiện tại: âm thanh chất lượng cao / 
+  Âm thanh hiện tại: MIDI âm thanh / 
+bài hát
+Bạn đã cho phép chúng tôi đăng bài lên tường Facebook của bạn: "I love this app" với các liên kết của Piano Teacher\'s.
+Tôi đồng ý
+Không, không bao giờ
+Cảm ơn bạn vì đã yêu thích Piano Teacher.
+Giới thiệu trên facebook của tôi
+Giới thiệu trên Twitter của tôi
+Cảm ơn bạn đã chia sẻ ứng dụng trên mạng xã hội Facebook.
+Cảm ơn bạn đã chia sẻ trên mạng xã hội Twitter.
+Kiếm được 100 RUBY miễn phí
+Nhóm chia sẻ
+Piano giao hưởng
+Tồi, 1 sao
+Gửi
+Bình luận của bạn: 
+Bản nhạc
+Hỗ trợ
+Cài đặt
+Bạn không thể chơi file vừa chọn trong chế độ này
+File đã được lưu tại
+File lưu không thành công tại 
+Giao dịch không thể xác thực. Xin vui lòng liên hệ chúng tôi qua địa chỉ hòm thư paid@rubycell.com
+Tuyển tập giáng sinh
+Tuyển tập thiếu nhi
+Tuyển tập nhạc cổ điển
+Lựa chọn
+Chơi tất cả các nốt trong khoảng từ %1$s đến %2$s
+Không hiển thị hộp thoại này nữa
+Chưa tải
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Bản cập nhật
+Tôi đã biết
+Kho nhạc cụ
+Kho bài nhạc
+Mua bằng %d Ruby
+Chơi thêm bản nhạc khác để nhận thêm Ruby
+Piano Teacher yêu cầu một số quyền sau: \n%s\n\nNếu có bất cứ câu hỏi về ứng dụng, xin vui lòng liên hệ với chúng tôi tại support@rubycell.com
+Đọc Phone ID ( IMEI ) : tạo ID cho từng khách hàng khi mua vật phẩm (đặc biệt là những khách hàng từng thực hiện giao dịch trên ứng dụng).
+Truy cập SD card : cho phép ứng dụng tải dữ liệu cần thiết và cập nhật dữ liệu.
+Rất tiếc! Đăng ký không được hỗ trợ trên thiết bị của bạn.
+Đăng ký
+Làm mới
+Đã đăng ký
+Đăng ký của bạn sẽ được kết thúc vào lúc %s
+Đăng ký của bạn sẽ được tự động gia hạn %s
+%s tháng không quảng cáo
+1 tuần không quảng cáo
+1 năm không quảng cáo
+Loại bỏ tất cả quảng cáo trong vòng %s tháng
+Loại bỏ tất cả quảng cáo trong vòng 1 tuần
+Loại bỏ tất cả quảng cáo trong vòng 1 năm
+Nâng cấp
+Đồng bộ Ruby không thành công
+Chặn quảng cáo có thể là nguyên nhân khiến việc đồng bộ Ruby thất bại. Vui lòng bỏ chặn quảng cáo trên thiết bị để đồng bộ Ruby
+Dùng thử Sound Engine mới (BETA)
+Sound Engine mới : Sửa lỗi sai nốt nhạc và khởi động chậm trên một số thiết bị.\n\nNếu có vấn đề gì với tính năng này. Xin vui lòng vào phần %s ứng dụng -> %s -> Bỏ chọn \"%s\" và khởi động lại Piano Teacher để khôi phục lại các thiết lập trước đó."
+Đã có bản cập nhật
+Đừng hiện lại
+Nhận thưởng 
+1000%s cho lần đầu tiên đăng nhập  
+Đăng nhập ngay và đồng bộ dữ liệu của bạn (Ruby, Cài đặt) trên mọi thiết bị 
+"Mức độ trung bình "
+Nhạc của tôi
+"Nhạc đã tải "
+"Đã chơi gần đây "
+CHƠI\nTRACK NÀY
+CHƠI\nTOÀN BỘ
+Nghe thử
+Dừng
+Chia sẻ
+Tìm trên Google 
+Tìm nhạc MIDI 
+Cách tìm file MIDI 
+Lọc theo quốc gia
+Nhạc quốc tế
+Tệp không còn tồn tại. Bài hát sẽ bị xóa khỏi danh sách.
+MỞ FILE KHÁC
+"Không có bài yêu thích "
+Không có bài chơi gần đây
+Không tìm thấy kết quả cho từ khóa. Bấm để thử lại
+Không có bài hát
+Tìm kiếm từ:
+Nhấn Tìm kiếm để xem kết quả từ Online & Search
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+"Xem thêm kết quả từ Google "
+"Không tìm thấy kết quả phù hợp. Xin hãy thử tìm trên Google "
+Mua thêm bài hát
+NOT TRANSLATED!!!
+Nhận thưởng
+Thử thách
+Phần thưởng
+"Không thể tải được dữ liệu Thử thách. Xin hãy thử lại! "
+Thử lại
+NOT TRANSLATED!!!
+Thử thách trong ngày
+Kết quả Thử thách
+NOT TRANSLATED!!!
+Hạng 1
+Hạng 2
+Hạng 3
+Hoàn thành bản nhạc
+Songbook
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Để sau
+Top từ khóa
+Bạn có muốn báo lỗi cho chúng tôi?
+Rất tiếc thiết bị của bạn không thể nghe thử bài hát do một lỗi không mong muốn.
+Vui lòng mô tả kèm thông tin thiết bị; phiên bản Android; phiên bản ứng dụng, giúp chúng tôi hiểu và khắc phục lỗi nhanh hơn
+Xem video quảng cáo
+Xem hết video quảng cáo này để nhận Ruby miễn phí
+Xem ngay
+Đổi tên
+Phản hồi bản Beta
+Mời bạn chia sẻ một vài ý kiến về phiên bản Beta mới
+Đóng góp của bạn sẽ giúp chúng tôi cải thiện Piano Teacher
+Bạn nghĩ bản Beta mới thế nào?
+Không tốt
+Tốt
+Tôi thích bản hiện tại hơn
+Tôi rất thích!
+Vì sao bạn thích bản mới?
+Vì sao bạn không thích bản mới?
+Theo bạn chúng tôi nên làm gì để ứng dụng tốt hơn?
+TIẾP
+QUAY LẠI
+Khó dùng phức tạp
+Ứng dụng tự dừng, không chạy
+Tôi thích giao diện cũ
+Giao diện đẹp
+Kho nhạc cụ
+Cảm ơn ý kiến của bạn!
+ĐỂ SAU
+NOT TRANSLATED!!!
+BỎ QUA
+TIẾP TỤC
+Đang gửi phản hồi
+Bạn được thưởng %s Ruby 
+Cảm ơn bạn đã xem video
+Bạn có chắc muốn mua gói bài hát này?
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Thay đổi âm lượng
+Thay đổi âm lượng theo vị trí bấm phím. Vị trí cao phát âm lượng nhỏ, vị
+        trí thấp phát âm lượng to
+    
+Âm lượng tự động
+Tự động phát âm lượng theo dữ liệu bài hát
+Thử thách mỗi ngày
+Tham gia thử thách & nhận thêm Ruby
+NOT TRANSLATED!!!
+Nốt nhạc sẽ dừng lại và đợi bạn bấm phím
+Nốt nhạc sẽ được chơi liên tục
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Cài đặt nâng cao
+Chế độ bàn phím
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Thành viên Premium
+Đàn đơn
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Đàn đơn có nốt hướng dẫn
+Đàn đơn không có nốt hướng dẫn
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Tham gia Thử thách và trở thành Quán quân
+Năm
+Năm
+Tháng
+Tháng
+Tuần
+Tuần
+Ngày
+Ngày
+Fantastic! You are the champion
+Awesome! You won the silver medal
+Great Effort!! You got the bronze medal
+Great job! You\'re in top 10. Try harder next time to get more reward
+High Five!! You got rank %s. Keep scoring!
+Today competition will end soon. Please wait for the next competition.
+Xếp hạng
+Bật thông báo 
+Bạn có muốn bật thông báo cho %s để nhận bài hát thử thách, phần thưởng và các tin tức khác?
+Đừng hiện lại
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Chọn track cho tay phải
+Chọn track cho tay trái
+Bật
+Tắt
+Không thể upload file mẫu
+Upload bài hát
+Input song information
+Tiêu đề bài hát
+Tác giả hay Nghệ sĩ
+Xác định track để chơi
+Xác định track cho tay phải/trái để mọi người chọn đúng track để chơi 
+Chi tiết track 
+Track đã bị tắt không thể chạy nền 
+Chọn track để chơi
+Im lặng
+Đề xuất cho tay phải 
+Đề xuất cho tay trái
+ĐÃ THÍCH
+Bài hát đã thích
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Bạn có thích %s không?
+Tại sao bạn không thích %s?
+Bạn có thể cho chúng tôi biết những gì làm cho bạn không hài lòng?
+Gửi phản hồi
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!

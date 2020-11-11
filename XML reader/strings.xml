@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">"Pianist HD: Piano Teacher"</string>
+  <!-- text & message -->
+  <string name="no_network_connection">"There is no internet connection. Please connect to internet and try again."</string>
+  <string name="ok">"OK"</string>
+  <string name="no_thanks">"No, Thanks"</string>
+  <string name="select_a_file">"Select a file"</string>
+  <string name="upload_err">"Facebook Error: cannot post your status on Facebook. Please check permission or network connection.
+	"</string>
+  <string name="billing_not_supported_message">"Billing service is not available for your country. You can continue using this app but cannot make any purchases.
+	"</string>
+  <string name="buy">"Buy"</string>
+  <string name="close4buttons">" X "</string>
+  <string name="please_wait">"Please wait..."</string>
+  <string name="recording">"Recording..."</string>
+  <string name="record_a_song">"Record a song"</string>
+  <string name="search_for_songs">"Search for Songs"</string>
+  <string name="no_record">"No record. Record a new song!"</string>
+  <string name="no_downloaded">"No song. Get a song from Online &amp; Search channel"</string>
+  <string name="some_error_occured">"Some error occurred. Check your internet connection"</string>
+  <string name="not_supported_file_type">"File type not supported. Please select a .midi or .kar file."</string>
+  <string name="thank_you">"Thank you!"</string>
+  <string name="sure_want_quit">"Are you sure you want to quit?"</string>
+  <string name="yes">"Yes"</string>
+  <string name="no">"No"</string>
+  <string name="cancel">"Cancel"</string>
+  <string name="playing">"Playing"</string>
+  <string name="save_record_as">"Save your recording as"</string>
+  <string name="file_name_empty">"The file name is empty."</string>
+  <string name="turn_off_autoplay">"Autoplay is turned off."</string>
+  <string name="auto_play">"Autoplay "</string>
+  <string name="save">"Save"</string>
+  <string name="upload_succeeded">"Upload progress succeeded"</string>
+  <string name="upload_failed">"Upload progress failed"</string>
+  <string name="hope_like_this_song">"I hope you like this song"</string>
+  <string name="create_with_pianist">"Created with Pianist HD: Piano Teacher on my Android"</string>
+  <string name="file_not_found">"File not found!"</string>
+  <string name="confirm">"Confirm"</string>
+  <string name="error">"Error"</string>
+  <string name="network_down">"Check Your Connection and Try Again!"</string>
+  <string name="processing">"Processing"</string>
+  <string name="loading">"Loading..."</string>
+  <string name="downloading_files">"Downloading..."</string>
+  <string name="left_hand">"Left Hand"</string>
+  <string name="right_hand">"Right Hand"</string>
+  <string name="piano">"Piano"</string>
+  <string name="hand_drum">"Hand drum"</string>
+  <string name="drum">"Drum"</string>
+  <string name="violin">"Violin"</string>
+  <string name="bass">"Bass"</string>
+  <string name="macaras">"Maracas"</string>
+  <string name="organ">"Organ"</string>
+  <string name="guitar">"Guitar"</string>
+  <string name="sax">"Sax"</string>
+  <string name="harmonica">"Harmonica"</string>
+  <string name="bell">"Bell"</string>
+  <string name="trumpet">"Trumpet"</string>
+  <string name="accordion">"Accordion"</string>
+  <string name="brass">"Brass"</string>
+  <string name="cello">"Cello"</string>
+  <string name="flute">"Flute"</string>
+  <string name="harp">"Harp"</string>
+  <string name="panpipe">"Panpipe"</string>
+  <string name="vibraphone">"Vibraphone"</string>
+  <string name="other_instruments">"All 128 others"</string>
+  <string name="browse_file">"Browse file"</string>
+  <string name="length">"Length:"</string>
+  <string name="vibration">"Vibration"</string>
+  <string name="note_naming">"Note Naming"</string>
+  <string name="single">"Single"</string>
+  <string name="copyright">"© 2020 Rubycell Entertainment"</string>
+  <string name="double_classic">"Double (Classic)"</string>
+  <string name="double_mirror">"Double (Mirror)"</string>
+  <string name="triple">"Triple"</string>
+  <string name="retry_retry">"Retry"</string>
+  <string name="dont_show_notification">"Don't show this notification again"</string>
+  <string name="others">"Others"</string>
+  <string name="select_your_language">"Please select your language"</string>
+  <string name="left_left">"Left"</string>
+  <string name="right_right">"Right"</string>
+  <string name="purchased_item">"Purchased"</string>
+  <string name="downloaded_item">Downloaded</string>
+  <string name="language">"Language"</string>
+  <string name="processing_request">"Processing your request ..."</string>
+  <string name="error_occured_download">"An error occurred while downloading the contents of the acquired item. Please try again
+		later.
+	"</string>
+  <string name="tapjoy_download_failed">"Download TJ-Items Failed"</string>
+  <string name="help_help">"Help"</string>
+  <string name="attempting_open_youtube">"Tutorial Video is loading. Please hang tight!"</string>
+  <string name="search">"Search"</string>
+  <string name="enter_keyword">"Type your keywords here"</string>
+  <string name="data_file_corrupted">"File corrupted"</string>
+  <string name="downloading">"Downloading..."</string>
+  <string name="new_update">"New update"</string>
+  <string name="not_purchased">"Not purchased"</string>
+  <string name="sure_want_to_purchase">"Are you sure you want to purchase"</string>
+  <string name="sure_want_to_redownload">"Are you sure you want to re-download"</string>
+  <string name="db_error">"Database error! Please try again later."</string>
+  <string name="insufficient_internal_mem">"Not enough spaces on your device's internal memory. Please delete unused
+		files.
+	"</string>
+  <string name="insufficient_external_mem">"Do not enough spaces on your SD-Card. Please delete unused files."</string>
+  <string name="restore">"Restore"</string>
+  <string name="not_enough_ruby">"You don't have enough RUBY to purchase this item!"</string>
+  <string name="pause_download">"Are you sure you want to stop all download progress now?"</string>
+  <string name="sound_files_corrupted">"Sound files are corrupted. Do you want to re-download them now?"</string>
+  <string name="cmd_delete_song">"Delete"</string>
+  <string name="my_loaded_midi">"My loaded files"</string>
+  <string name="my_favourite">"My favorite"</string>
+  <string name="my_recorded">"My recorded"</string>
+  <string name="not_enough_ruby_enter_challenge">"You don't have enough RUBY to enter challenge!"</string>
+  <!-- new -->
+  <string name="song_list">"Built-in Library"</string>
+  <string name="free_cloud_sharing">"Cloud Sharing"</string>
+  <string name="online_search">"Online &amp; Search"</string>
+  <string name="musescore_empty">"No sheet music found"</string>
+  <string name="hq_sounds">"High Quality Sounds"</string>
+  <string name="midi_sounds">"MIDI Sounds"</string>
+  <string name="sample_files">"Sample files"</string>
+  <string name="delete_song_confirm">"Do you really want to delete this song?"</string>
+  <string name="delete_record_confirm">"Do you really want to delete this record?"</string>
+  <string name="delete_record_success_message">"Deleted successfully"</string>
+  <string name="delete_fav_success_message">"Removed successfully!"</string>
+  <string name="delete_file_success_message">"Removed successfully!"</string>
+  <string name="set_favourite_message">"The record has been added to your favorite group."</string>
+  <string name="information_dialog_title">"Information"</string>
+  <string name="not_activated_message">"has not been activated!"</string>
+  <string name="report_an_issue">"Report an issue"</string>
+  <string name="faq">"FAQ"</string>
+  <string name="got_idea">"I got an idea for Piano Teacher"</string>
+  <string name="getfreeruby">"Get Free RUBY"</string>
+  <string name="upload">"Upload"</string>
+  <string name="review_pianist_title">"Rate Piano Teacher"</string>
+  <string name="yes_sure">"Yes, sure !"</string>
+  <string name="review_pianist_description">"If you enjoy using Piano Teacher, would you mind taking a moment to rate it? It
+		won't take more than a minute.
+Thanks for your support!
+	"</string>
+  <string name="remind_me_late">"Remind me later"</string>
+  <string name="long_click_instument">"Tip: Long click on an instrument to play sample song."</string>
+  <string name="search_google_guide">"Please enter the name of the song you love and press search button"</string>
+  <string name="using_other">"Using other"</string>
+  <string name="midi_search_engine">"\"MIDI Search Engine\""</string>
+  <string name="load_more">"Load more ..."</string>
+  <string name="select_instrument_title">"Select an instrument"</string>
+  <string name="loadding_search">"Loading search result(s)..."</string>
+  <string name="instrument_play_sample_network">"Network connection is required to playback this sample."</string>
+  <string name="instrument_loadding_sample">"Loading sample"</string>
+  <string name="start_a_search">"Start a search"</string>
+  <string name="rock_song_des">"Enjoy Piano Teacher with newest tunes by loading a MIDI .mid or .kar file. Enter an artist or a song name
+		to search on %s
+	"</string>
+  <string name="remove_ads">"Remove ADs"</string>
+  <string name="play">"Play"</string>
+  <string name="confirm_play_random">"No selected song, play any now!"</string>
+  <string name="device_id">"Device ID:"</string>
+  <string name="cannot_open_selected_file">"Unable to open file"</string>
+  <string name="i_love_this_app">"I love this app!"</string>
+  <string name="please_like_face">"Please click Like or Subscribe button on our Facebook to receive RUBY."</string>
+  <string name="please_follow_twitter">"Please click Follow button on our Twitter to receive RUBY."</string>
+  <string name="has_install_our_app">"You have installed our app completely. You should receive RUBY. Thank you!"</string>
+  <string name="file_not_play">"You can only play this song in Practice or Perform mode."</string>
+  <string name="do_not_restore_item">"An error occurred while restoring your items! Please check your connection and open the Shop
+		to retry.
+	"</string>
+  <string name="share_face_sucess">"Thank you for your support on Facebook social network. You should receive RUBY."</string>
+  <string name="share_twitter_sucess">"Thank you for your support on Twitter social network. You should receive RUBY.
+	"</string>
+  <string name="end_of_song">"Great performance!"</string>
+  <!-- ============================= SHOP =================================== -->
+  <string name="support">"Free RUBY"</string>
+  <string name="shop_free_buby_tip">"There are many ways to earn RUBY. All you need is do as the following: install and
+		run the app or share the app with your friends.
+	"</string>
+  <string name="earn">"Earn"</string>
+  <string name="cancel_share">"Sharing canceled, no RUBY rewarded"</string>
+  <string name="share_error">"Oops! Some error occurred, you will not receive RUBY."</string>
+  <string name="buy_item_all_song">"Unlock all songs now!"</string>
+  <string name="buy_item_ads">"Remove all ads now!"</string>
+  <string name="buy_item_free_band">"Unlock all instruments now!"</string>
+  <string name="buy_item_midiloader">"Load and play your midi file"</string>
+  <string name="free_vote_app">"Please review this app to receive RUBY."</string>
+  <string name="free_install_app">"Please install this app to receive RUBY."</string>
+  <string name="start_search">"Start a search to find the song you love."</string>
+  <string name="midi_trial_message">"Please wait for 5 minutes to play full midi track OR play 60s demo of the song
+		immediately‎.
+	"</string>
+  <string name="open_shop">"Purchase MIDI loader."</string>
+  <string name="do_it_later">"Play 60s demo"</string>
+  <string name="alert_title">"Alert"</string>
+  <string name="please_wait_moment_message">"Please wait a moment..."</string>
+  <string name="no_song_found_message">"No songs found"</string>
+  <string name="process_file_failure">"Cannot process the selected file."</string>
+  <string name="download_pending">"Download pending..."</string>
+  <!-- ====================================================================== -->
+  <!-- ============================ Twitter ==================================== -->
+  <!-- Forbidden Urls -->
+  <string name="twitter_error">"cannot post your status, please check your network connection."</string>
+  <!-- ================================================================================ -->
+  <!-- ============================ Tutorial ==================================== -->
+  <string name="tu_tap_to_play_title">"Hint Key"</string>
+  <string name="tu_tap_to_play_message">"Tap on the hint key to play the right note"</string>
+  <string name="tu_open_instrument_list_title">"Instruments"</string>
+  <string name="tu_open_instrument_list_message">"Tap here to open the instrument list"</string>
+  <string name="tu_open_song_list_title">"Song Book"</string>
+  <string name="tu_open_song_list_message">"Tap here to open the song list."</string>
+  <string name="tu_open_shop_title">"Shop"</string>
+  <string name="tu_open_hq_sound_title">"High quality sounds"</string>
+  <string name="tu_open_hq_sound_message">"Tap to open high-quality (HQ) sound instruments list."</string>
+  <string name="tu_song_book_title">"Song Book"</string>
+  <string name="tu_song_book_message">"You can find your favorite song(s) here."</string>
+  <string name="tu_song_cloud_title">"Cloud sharing"</string>
+  <string name="tu_open_midi_title">"Browse your files"</string>
+  <string name="tu_keyboard_size_title">"Keyboard size options"</string>
+  <string name="tu_keyboard_size_message">"Make piano keys thicker, thinner, higher or lower"</string>
+  <string name="tu_slide_to_move_title">"Move keyboard"</string>
+  <string name="tu_slide_to_move_message">"Drag one finger from left-to-right, right-to-left in order to move the keyboard"</string>
+  <string name="tut_pan_to_zoom_title">"Zoom keyboard"</string>
+  <string name="tut_pan_to_zoom_msg">"Use two fingers to zoom in or zoom out the piano keyboard"</string>
+  <string name="tut_swipe_to_resize_title">"Resize keyboard"</string>
+  <string name="tut_swipe_to_resize_msg">"Use three fingers to change the height of piano keyboard"</string>
+  <!-- ============================ End of Tutorial ==================================== -->
+  <string name="update_tappoint_false">"Update RUBY balance failed, Please try again later."</string>
+  <string name="please_install_game">"Install and run any game to get free RUBY"</string>
+  <string name="file_exists">"File already exists. Please enter another file name."</string>
+  <string name="easy_group">"Easy Level"</string>
+  <string name="default_collection">"Hard Level"</string>
+  <string name="free_bands">"Free Bands"</string>
+  <string name="all_songs">"All songs"</string>
+  <string name="midi_loader">"Midi Loader"</string>
+  <string name="you_have_received">"You have received"</string>
+  <string name="replay">"Replay Song"</string>
+  <string name="random_song">"Random Song"</string>
+  <string name="more_apps">"New Great Apps"</string>
+  <!-- ============================= NEW ================== -->
+  <string name="learn_guitar">"Learn To Play Guitar"</string>
+  <string name="upright_piano">"Upright Piano"</string>
+  <string name="drawing_for_kids">"Drawing For Kids"</string>
+  <string name="piano_for_kids">"Piano For Kids"</string>
+  <string name="open_midi_files">"MIDI Files"</string>
+  <string name="welcome_try_first_song">"Welcome to Pianist HD: Piano Teacher! You may like to try your first song here."</string>
+  <string name="digital_piano">"Digital Piano"</string>
+  <string name="other_app">"Cool Apps"</string>
+  <string name="find_midi">"Find and select a .mid or .kar file on your device to play with Piano Teacher"</string>
+  <!-- =========== new 27/12 ============ -->
+  <string name="confrirm_post_face_mes">"We will post \"I love this app\" and with Piano Teacher's link to your Facebook Wall"</string>
+  <string name="post_face_yes">"OK, I agree this time only"</string>
+  <string name="close">"Close"</string>
+  <!-- ================= new 31/12 ==================== -->
+  <string name="instrument_tuto_hight">"Current sound theme: High-Quality (HQ) Sounds/"</string>
+  <string name="instrument_tuto_midi">"Current sound theme: MIDI sounds/"</string>
+  <string name="songs_songs">"songs"</string>
+  <!-- ==== new 6/1 ================ -->
+  <string name="confirm_post_face">"You have allowed us to post on your Facebook wall: \"I love this app\" with Piano Teacher's link."</string>
+  <string name="i_agree">"I Agree"</string>
+  <string name="no_never">"No, never"</string>
+  <string name="dialog_confirm_post_mes">"Thank you for your love with Pianist HD: Piano Teacher."</string>
+  <string name="dialog_confirm_post_face">"Recommend on my Facebook"</string>
+  <string name="dialog_confirm_post_twi">"Recommend on my Twitter"</string>
+  <string name="share_face_thanks">"Thank you for your support on Facebook social network."</string>
+  <string name="share_twitter_thanks">"Thank you for your support on Twitter social network."</string>
+  <string name="dialog_buy_btn3">"Earn some RUBY for FREE"</string>
+  <string name="sharing_group">"Sharing group"</string>
+  <string name="concert_piano">"Concert Piano"</string>
+  <!-- ======= new 15/1 ============= -->
+  <string name="star_1">"Bad, 1 star only"</string>
+  <string name="send_send">"Send"</string>
+  <string name="your_comment">"Your comment:"</string>
+  <string name="sheet_mode">"Sheet music"</string>
+  <!--     ===== Quik menu ============ -->
+  <!-- ==== -->
+  <!-- === -->
+  <string name="touch_others">"Support"</string>
+  <!-- == -->
+  <string name="touch_Settings">"Settings"</string>
+  <!-- ========================================================================= -->
+  <string name="cannot_play_in_mode">"Unable to play the file in this mode!"</string>
+  <string name="file_exported_to">"File was exported to"</string>
+  <string name="cannot_export_file_to">"Unable to export file"</string>
+  <!-- ======= -->
+  <string name="failed_to_verify">"Failed to verify the purchase. Please contact us at support@rubycell.com."</string>
+  <string name="christmas_collection">"Christmas Carol Collection"</string>
+  <string name="kids_collection">"Kids Song Collection"</string>
+  <string name="classical_collection">"Classical Collection"</string>
+  <string name="playing_range">"Playing range"</string>
+  <string name="from_to">"Play all notes from %1$s to %2$s, this song has only 1 track"</string>
+  <string name="dont_show_range_dialog">"Don't show this dialog again"</string>
+  <string name="state_not_downloaded">"Not downloaded"</string>
+  <string name="soundfont" translatable="false">"Soundfont"</string>
+  <string name="title_activity_dialog_change_log" translatable="false">"DialogChangeLogActivity"</string>
+  <string name="dialog_change_log_title">"What is new"</string>
+  <string name="dialog_change_log_confirm">"Got it"</string>
+  <string name="vg_title_instrument">"Instruments"</string>
+  <string name="vg_title_song">"Songs"</string>
+  <string name="shop_buy_instrument_for">"Buy in the Shop"</string>
+  <string name="shop_play_more_song_to_get_ruby">"Play more song to get more FREE RUBY"</string>
+  <string name="permission_details">"Pianist HD: Piano Teacher requires following permissions: 
+%s
+
+If you have any question, please
+		contact us at support@rubycell.com
+	"</string>
+  <string name="description_permission_phone_state">"Read phone status and identity: help to generate a unique ID used to
+		identify specific customers (especially for repeat customers) when purchasing items.
+	"</string>
+  <string name="description_permission_storage">"Read and modify the content of your USB storage: allow the application to
+		download necessary and updated data.
+	"</string>
+  <string name="shop_subscribe_not_supported_message">"We are sorry! Subscription not supported on your device yet.
+	"</string>
+  <string name="shop_subscribe">"Subscribe"</string>
+  <string name="shop_renew">"Renew"</string>
+  <string name="shop_subscribed">"Subscribed"</string>
+  <string name="shop_subs_ended_msg">"Your subscription will be ended at %s"</string>
+  <string name="shop_subs_renew_msg">"Your subscription will be automatically renewed at %s"</string>
+  <string name="shop_subs_ads_1month">"%s month ad-free subscription"</string>
+  <string name="shop_subs_ads_1week">"1 week ad-free subscription"</string>
+  <string name="shop_subs_ads_1year">"3-days FREE Subscription trial"</string>
+  <string name="shop_subs_ads_1month_details">"Remove all advertisements in %s month"</string>
+  <string name="shop_subs_ads_1week_details">"Remove all advertisements in 1 week"</string>
+  <string name="shop_subs_ads_1year_details">"Remove all advertisements in 1 year"</string>
+  <string name="shop_upgprade">"Upgrade"</string>
+  <string name="title_tapjoy_connection_failed">"Opp! RUBY balance synchronization failed!"</string>
+  <string name="msg_tapjoy_connection_failed">"Ad blocker may stop Ruby synchronization. Please remove Ad blocker on your
+		device to synchronize Ruby
+	"</string>
+  <string name="title_try_new_sound_engine">"Try new Beta Sound Engine"</string>
+  <string name="msg_try_new_sound_engine" formatted="false">"New Sound Engine : Fix wrong note issue and slow loading at the
+		beginning on some devices.
+
+In case of any problem with updated feature,
+Please go to in-app %s -&gt; %s -&gt; uncheck
+		\"%s\" and restart Piano Teacher to restore the previous settings
+	"</string>
+  <string name="new_update_available">"New Update available"</string>
+  <string name="dont_show_again">"Don't show again"</string>
+  <string name="first_title_dialog_notice_update">"Get"</string>
+  <string name="second_title_dialog_notice_update">"55 %s for the first login"</string>
+  <string name="description_dialog_notice_update">"Login now to sync data (Ruby, Settings) across all devices"</string>
+  <string name="intermediated_level">"Intermediated Level"</string>
+  <string name="mysong_tab">"My Songs"</string>
+  <string name="mysong_tab_downloaded_songs">"Downloaded songs"</string>
+  <string name="mysong_tab_recent_songs">"Recent songs"</string>
+  <string name="play_this_track_midi">"Just play
+this track"</string>
+  <string name="play_all_track_midi">"Play track 
+with others"</string>
+  <string name="listen">"Listen"</string>
+  <string name="stop">"Stop"</string>
+  <string name="share">"Share"</string>
+  <string name="search_on_google">"Search on Google"</string>
+  <string name="search_for_midi_songs">"Search for MIDI songs"</string>
+  <string name="how_to_get_midi_files">"How to get MIDI files"</string>
+  <string name="filter_by_country">"Filter by country"</string>
+  <string name="world_wide">"International music"</string>
+  <string name="msg_file_removed">"The file is no longer available. This song will be removed from Songbook"</string>
+  <string name="open_other_file">"Open other file"</string>
+  <string name="string_item_default_favourite">"No favorite song yet!"</string>
+  <string name="string_item_default_recent">"No song played yet!"</string>
+  <string name="search_error_retry">"Search key not found for this country. Try another keyword, please!"</string>
+  <string name="no_song">"No song yet!"</string>
+  <string name="search_locations">"Search from:"</string>
+  <string name="tap_to_seach_online">"Tap Search to view more results from Online &amp; Sharing"</string>
+  <string name="title_activity_test_quick_search" translatable="false">"TestQuickSearchActivity"</string>
+  <string name="title_activity_test_get_data_local" translatable="false">"TestGetDataLocalActivity"</string>
+  <string name="midi_and_kar" translatable="false">"MIDI &amp; KAR"</string>
+  <string name="freesheet" translatable="false">"FreeSheets.net"</string>
+  <string name="view_more_result_google">"View more results from Goole"</string>
+  <string name="no_songs_matchs_search">"No song matchs your search. You may try search it on Google"</string>
+  <string name="get_more_songs">"get more songs"</string>
+  <!--Challenge-->
+  <string name="title_activity_test_challenge_button" translatable="false">"TestChallengeButtonActivity"</string>
+  <string name="button_claim">"Claim Reward"</string>
+  <string name="button_challenge">"Challenge Now!"</string>
+  <string name="reward">"Reward"</string>
+  <string name="challenge_dialog_error_message">"Unable to retrieve data. Please try again later!"</string>
+  <string name="try_again">"try again"</string>
+  <string name="title_activity_test_list_challenge" translatable="false">"TestListChallenge"</string>
+  <string name="today_challenge">"Today challenge"</string>
+  <string name="challenge_result">"Challenge Result"</string>
+  <string name="title_activity_test_in_game_for_challenge" translatable="false">"TestInGameForChallengeActivity"</string>
+  <string name="place_1st">"1st place"</string>
+  <string name="place_2nd">"2nd place"</string>
+  <string name="place_3rd">"3rd place"</string>
+  <string name="completed_song">"Completed song"</string>
+  <string name="songbook">"Songbook"</string>
+  <string name="dialog_login_sign_in_with_google" translatable="false">"Sign in with Google"</string>
+  <string name="dialog_login_facebook_connect" translatable="false">"Facebook Connect"</string>
+  <string name="later">"Later"</string>
+  <string name="popular_keywords">"Top keywords"</string>
+  <string name="title_dialog_report_err">"Do you want to report the problem?"</string>
+  <string name="preview_error">"We are sorry. Your device can't preview this song due to an unexpected error."</string>
+  <string name="message_dialog_report_err">"Please describe and attach more details such as device model; Android version; app version. They may help us fully understand and fix error more quickly."</string>
+  <string name="watch_sponsored_video">"Watch a sponsored video"</string>
+  <string name="watch_sponsored_video_detail">"Complete watching this sponsored video to earn RUBY"</string>
+  <string name="watch_now">"Watch now"</string>
+  <string name="popup_rename">"Rename"</string>
+  <string name="beta_version_feedback">"Beta Version feedback"</string>
+  <string name="would_you_mind_to_share">"Would you mind sharing us what you think about new Beta Version?"</string>
+  <string name="your_feedback_will_help_us">"Your feedback will help us improve Pianist HD: Piano Teacher"</string>
+  <string name="what_do_you_thinks_about_new_beta_version">"What do you think about new Beta Version?"</string>
+  <string name="bad">"Not good"</string>
+  <string name="good">"Good"</string>
+  <string name="i_prefer_current_version">"I prefer the current version"</string>
+  <string name="i_love_new_beta_version">"I love it!"</string>
+  <string name="what_do_you_love_in_new_version">"What do you love in the new version?"</string>
+  <string name="what_do_you_dislike_in_new_version">"Why aren't you interested in the new version?"</string>
+  <string name="what_do_you_thinks_make_ver_better">"What should we do to make this version better?"</string>
+  <string name="next">"Next"</string>
+  <string name="previous">"Previous"</string>
+  <string name="it_difficult">"It's difficult to use"</string>
+  <string name="app_crash">"Oops! an error has occurred. Please, re-open the app
+"</string>
+  <string name="i_prefer_old_design">"I prefer the old design"</string>
+  <string name="overal_design">"Overall design"</string>
+  <string name="instrument_list">"Instrument list"</string>
+  <string name="thanks_for_feedback">"Thank you for your feedback!"</string>
+  <string name="dialog_beta_option_later">"Maybe later"</string>
+  <string name="your_email" translatable="false">"Your Email"</string>
+  <string name="skip">"Skip"</string>
+  <string name="s_continue">"Continue"</string>
+  <string name="sending_your_feedback">"Sending your feedback..."</string>
+  <string name="reward_video_title">"Thanks! You got %s RUBY as a reward. To keep our brain up and running, a beer is in-need to fuel our creativity and efforts for improving user experience. Viewing an ad helps keep our brain work for you."</string>
+  <string name="reward_video_message">"Thanks for watching!"</string>
+  <string name="buy_song_pack_confirm">"Confirm"</string>
+  <string name="beta_version">"Beta Version"</string>
+  <string name="beta_feedback_summary">"Your feedback is very valued to us, please drop us a few words here
+    "</string>
+  <string name="beta_feedback_title">"Beta feedback"</string>
+  <string name="open_stable_title">"Open stable version"</string>
+  <string name="open_stable_summary">"Open current stable version of"</string>
+  <string name="setting_volume_control_title">"Keyboard Volume Control"</string>
+  <string name="setting_volume_control_summary">"Change volume by pressing postion. Low pressing postion creates louder
+        sound
+    "</string>
+  <string name="setting_volume_auto_title">"Auto Volume Control"</string>
+  <string name="setting_volume_auto_summary">"Auto-set volume by the song data"</string>
+  <string name="title_daily_challenge">"Daily Challenge"</string>
+  <string name="description_item_daily_challenge">"Compete with other people &amp; earn extra RUBY"</string>
+  <string name="title_note_waiting">"Note waiting"</string>
+  <string name="description_note_waiting">"Music note hints will stop and wait for your action"</string>
+  <string name="description_not_wait_note">"Music note hints will fall down continuously"</string>
+  <string name="show_peadal">"Show Pedal"</string>
+  <string name="guide_note">"Show Guide Note"</string>
+  <string name="advance_setting">"Advanced Settings"</string>
+  <string name="keyboard_mode">"Keyboard Mode"</string>
+  <string name="option_not_load_songs_yet">"%s setting will take affect when you play a song"</string>
+  <string name="only_available_single">"Only available in Single Keyboard Mode"</string>
+  <string name="premium_member">"Premium Member"</string>
+  <string name="single_mode">"Single"</string>
+  <string name="single_mode_no_tile">"Single without tiles"</string>
+  <string name="single_mode_sheet">"Single Sheet music"</string>
+  <string name="description_single_mode">"Single row keyboard with note hints"</string>
+  <string name="description_single_mode_without">"Single row keyboard with without note hints"</string>
+  <string name="resume">"resume"</string>
+  <string name="restart">"restart"</string>
+  <string name="quit">"quit"</string>
+  <string name="note_hit">"Note hit"</string>
+  <string name="on_time">"On Time"</string>
+  <string name="combo">"Combo"</string>
+  <string name="score">"Score"</string>
+  <string name="total_score">"Total score"</string>
+  <string name="challenge_empty_message">"Take up the Challenge and Win!"</string>
+  <string name="years">"Years"</string>
+  <string name="year">"Year"</string>
+  <string name="months">"Months"</string>
+  <string name="month">"Month"</string>
+  <string name="weeks">"Weeks"</string>
+  <string name="week">"Week"</string>
+  <string name="days">"Days"</string>
+  <string name="day">"Day"</string>
+  <string name="message_encouragement_rank_1">"Fantastic! You are the champion"</string>
+  <string name="message_encouragement_rank_2">"Awesome! You won the silver medal"</string>
+  <string name="message_encouragement_rank_3">"Great Effort!! You got the bronze medal"</string>
+  <string name="message_encouragement_rank_top_10">"Great job! You're in top 10. Try harder next time to get more reward"</string>
+  <string name="message_encouragement_rank_other">"High Five!! You got rank #%s. Keep scoring!"</string>
+  <string name="message_challenge_coming_to_end">"Today competition will end soon. Please wait for the next competition."</string>
+  <string name="rank">"Rank"</string>
+  <string name="title_dialog_ask_enable_notification">"Enable notifications"</string>
+  <string name="description_dialog_ask_enable_notification">"Enable notifications for %s to receive challenge songs, rewards and other updates from us?"</string>
+  <string name="dont_show_gain">"do not show again"</string>
+  <string name="ready_upcase">"READY"</string>
+  <string name="parse_server_url_release" translatable="false">"https://apis-piano.rubycell.com/parse"</string>
+  <string name="parse_server_url_test" translatable="false">"http://apis-piano.rubycell.com/test"</string>
+  <string name="parse_app_id" translatable="false">"BC3YGNnyial04sSQbcCdgOs9pnwEAqENIXEJRPpp"</string>
+  <string name="parse_function_endpoint" translatable="false">"/functions"</string>
+  <string name="parse_class_endpoint" translatable="false">"/classes"</string>
+  <string name="parse_app_header_request_key" translatable="false">"X-Parse-Application-Id"</string>
+  <string name="parse_func_signup" translatable="false">"/signup"</string>
+  <string name="parse_func_backup_settings" translatable="false">"/backup_settings"</string>
+  <string name="parse_func_restore_settings" translatable="false">"/restore_settings"</string>
+  <string name="parse_func_get_tapjoy_balance" translatable="false">"/get_tapjoy_balance"</string>
+  <string name="parse_func_get_tapjoy_account" translatable="false">"/get_tapjoy_user_account"</string>
+  <string name="parse_func_link_identify_device" translatable="false">"/link_identify_device"</string>
+  <string name="parse_func_get_link_identify_devices" translatable="false">"/get_link_identify_devices"</string>
+  <string name="parse_func_set_claimed_reward" translatable="false">"/setClaimedRewardAndGetTodayChallengeData"</string>
+  <string name="parse_func_get_challenge_records" translatable="false">"/getChallengeRecordData"</string>
+  <string name="parse_func_update_challenge_record" translatable="false">"/updateChallengeRecord"</string>
+  <string name="parse_func_get_current_challenge" translatable="false">"/getChallengeSongAndTopThreeRecord"</string>
+  <string name="parse_func_send_feedback_flat" translatable="false">"/sendFeedbackForFlatUiVersion"</string>
+  <string name="select_track_for_right_hand">"Select track for right hand"</string>
+  <string name="select_track_for_left_hand">"Select track for left hand"</string>
+  <string name="turn_on">"Turn on"</string>
+  <string name="turn_off">"Turn off"</string>
+  <string name="can_not_upload_sample_file">"Unable to upload sample file"</string>
+  <string name="upload_song">"Upload Song"</string>
+  <string name="input_song_info">"Input song information"</string>
+  <string name="song_title">"Song title"</string>
+  <string name="author_or_artist">"Author or Artist"</string>
+  <string name="specify_track_for_play">"Specify tracks for playing"</string>
+  <string name="specify_track_des">"Specifying tracks for hands will help other people find out which tracks to play"</string>
+  <string name="track_detail">"Track details"</string>
+  <string name="track_turn_off_not_play">"Tracks which are turned off can't play in background"</string>
+  <string name="select_track_to_play">"Select track to play"</string>
+  <string name="muted">"Muted"</string>
+  <string name="recommend_right_hand">"Recommended for right hand"</string>
+  <string name="recommend_left_hand">"Recommended for left hand"</string>
+  <string name="s_liked">"Liked"</string>
+  <string name="liked_song">"Liked Songs"</string>
+  <string name="can_not_mute_all_track">"Unable to mute all track"</string>
+  <string name="s_suggest_help_translate">"We need your help to translate into %s. Give us a hand and get extra RUBY as return gift!"</string>
+
+  <string name="upgrade_to_vip_member">"MIDI song playback"</string>
+  <string name="vip_member">"Dear Valued Customer,"</string>
+  <string name="membership_trial">"Buy a drink for developer"</string>
+  <string name="one_hour_pass">" to Play"</string>
+  <string name="intro_vip_member">"This song stored in a file with MIDI format. Play with a .midi file is still in beta testing, please play with forgivingness and email us any error."</string>
+
+  <string name="no_ad_available">"Sorry, no more ad video are available to watch for now. Please try again later."</string>
+  <string name="consumed_ruby_to_challenge">"Consumed %d rubies to enter challenge mode"</string>
+  <string name="button_cool">"Next"</string>
+  <string name="dialog_result_button_adreward" formatted="false">"Watch an Ad to x%d"</string>
+  <string name="accuracy">"Accuracy"</string>
+  <string name="rate_filter_title">"Do you enjoy %s ?"</string>
+  <string name="negative_feedback_tittle">"Why don't you enjoy %s ?"</string>
+  <string name="negative_feedback_suggestion">"Could you tell us what makes you unsatisfied?"</string>
+  <string name="give_feedback">"Give feedback"</string>
+  <string name="tut_song_book_search_title">"Search song"</string>
+  <string name="tu_song_book_search_msg">"You can find more online songs here"</string>
+  <string name="tut_instrument_midi_title">"Midi sounds"</string>
+  <string name="tut_instrument_midi_msg">"Tap here to open midi sound instruments list"</string>
+  <string name="tut_instrument_sf_title">"Soundfont manager"</string>
+  <string name="tut_instrument_sf_msg">"Tap here to magage to soundfonts"</string>
+    <string name="rewind">Rewind</string>
+    <string name="forward">Forward</string>
+    <string name="menu_bar">Menu Bar</string>
+    <string name="left_op">Left Op</string>
+    <string name="right_op">Right Op</string>
+    <string name="transfer_successful">Transfer successful</string>
+  <string name="ruby_you_got_from_guest_account">Ruby you got from guest account</string>
+</resources>

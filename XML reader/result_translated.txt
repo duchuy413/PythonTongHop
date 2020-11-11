@@ -1,0 +1,487 @@
+Piano Teacher
+Hiện tại không có mạng. Vui lại thử lại sau.
+OK
+Không, cảm ơn
+Chọn một file
+Facebook Lỗi: không thể gửi trạng thái của bạn, hãy kiểm tra facebook của bạn hoặc kết nối mạng.
+Các dịch vụ không thể truy cập. Bạn có thể tiếp tục sử dụng ứng dụng này, nhưng bạn sẽ không thể mua hàng.
+Mua
+NOT TRANSLATED!!!
+Vui lòng đợi...
+Đang ghi âm...
+GHI ÂM BÀI MỚI
+TÌM BÀI HÁT
+Chưa có ghi âm. Ghi âm bài mới ngay
+Mục Tải về đang trống. Thêm nhạc từ Online & Search
+Một vài lỗi đã xảy ra. Vui lòng kiểm tra lại kết nối mạng.
+Định dạng file không được hỗ trợ. Xin hãy chọn file có định dạng .midi hoặc .kar.
+Cảm ơn! 
+Bạn có muốn đóng ứng dụng?
+Có
+Không
+Hủy
+Đang chơi 
+Lưu tệp 
+Tên file bị bỏ trống
+Tự động chơi đã tắt.
+(Tự động)
+Lưu
+Tiến trình tải lên thành công
+Tiến trình tải lên đã thất bại
+Mình hi vọng bạn sẽ thích bài hát này
+Tạo bởi Piano Teacher trên thiết bị của tôi
+Không tìm thấy file!
+Xác nhận
+Lỗi
+Mất kết nối mạng. Vui lòng thử lại sau.
+Đang xử lý...
+Đang khởi tạo...
+Đang tải....
+Tay trái
+Tay phải
+Piano
+Trống tay
+Trống
+Violin
+Bass
+Maracas
+Organ
+Ghi ta
+Sax
+Harmonica
+Chuông
+Trumpet
+Accordion
+Brass
+Cello
+Sáo
+Đàn hạc
+Panpipe
+Vibraphone
+Khác
+Chọn file
+Chiều dài:
+Độ rung
+Hiển thị tên phím
+Đơn
+NOT TRANSLATED!!!
+Bàn phím đôi
+Đối diện
+Ba hàng
+Thử lại
+Không hiện thông báo này nữa
+Khác
+Hãy lựa chọn ngôn ngữ của bạn
+Trái
+Phải
+Đã mua
+Đã tải
+Ngôn ngữ:
+Yêu cầu của bạn đang được xử lý ...
+Lỗi xảy ra khi tải vật phẩm.
+Quá trình tải thất bại
+Trợ giúp
+Chúng tôi đang cố gắng để mở một video hướng dẫn trên youtube. Xin vui lòng chờ trong giây lát!
+Tìm kiếm
+Hãy nhập từ khóa
+Lỗi
+Đang tải
+Có bản cập nhật
+Chưa mua
+Bạn có chắc muốn mua 
+Bạn có muốn tải lại dữ liệu 
+Cơ sở dữ liệu có lỗi. Xin vui lòng thử lại sau
+Không đủ dung lượng trống. Hãy xóa bớt file.
+Không đủ dung lượng trống. Hãy xóa bớt file.
+Khôi phục
+Bạn không đủ RUBY để mua
+Bạn muốn dừng toàn bộ tiến trình hiện tại ?
+Các file âm thanh bị lỗi. Bạn có muốn tải lại chúng không ?
+Delete
+Đã chơi
+Yêu thích
+Ghi âm
+NOT TRANSLATED!!!
+Nhạc có sẵn
+Chia sẻ
+Online & Tìm Kiếm
+Không tìm thấy bài hát nào
+Chất lượng cao
+Mặc định
+Tệp mẫu
+Bạn có muốn xóa bài hát này ?
+Bạn có muốn xóa bản ghi âm này ?
+Bản ghi đã được xóa.
+Bài hát đã bị đưa ra khỏi danh sách yêu thích.
+File được chọn đã bị xóa. 
+Bài hát đã được thêm vào danh sách yêu thích.
+Thông tin
+ chưa được kích hoạt!
+Phản hồi
+FAQ
+Tôi có một ý tưởng
+Kiếm thêm RUBY
+Tải lên
+Đánh giá Piano Teacher
+Chắc chắn rồi !
+Nếu bạn yêu thích Piano Teacher, hãy dành chút thời gian để đánh giá về nó\nXin cảm ơn!
+Để sau
+Mẹo: Bấm và giữ lâu để nghe thử nhạc cụ.
+Hãy nhập tên bài hát mà bạn yêu thích và bấm nút tìm kiếm.
+Sử dụng 
+\"Tìm kiếm MIDI file\"
+Thêm nữa ...
+Lựa chọn một nhạc cụ
+Đang tải kết quả tìm kiếm
+Xin hãy bật kết nối mạng.
+Đang tải bài
+Tìm kiếm
+Tìm kiếm các bài hát mới nhất ở định dạng .Midi hoặc .Kar tại trang %s
+Bỏ quảng cáo
+Chơi
+Bạn chưa chọn bài hát nào. Chơi một bài bất kỳ
+Mã số: 
+Không thể mở file đã chọn. Xin hãy chọn một file khác!
+Tôi yêu ứng dụng này!!!
+Xin hãy bấm "Like" hoặc "Subscribe" trên Facebook của chúng tôi để nhận RUBY.
+Xin hãy "Follow" chúng tôi trên Twitter để nhận RUBY.
+Bạn đã cài ứng dụng thành công. Chúng tôi sẽ tặng RUBY cho bạn. Xin cảm ơn.
+Bạn chỉ có thê chơi bài hát này ở chế độ "Luyện tập" hoặc "Thể hiện".
+Có lỗi xảy ra khi khôi phục các vật phẩm của bạn. Xin hãy kiểm tra lại kết nối mạng, sau đó vào lại cửa hàng.
+Xin cảm ơn sự hỗ trợ của bạn. Chúng tôi sẽ tặng bạn RUBY. Xin cảm ơn.
+Xin cảm ơn sự hỗ trợ của bạn. Chúng tôi sẽ tặng bạn RUBY. Xin cảm ơn.
+ Kết thúc!
+Kiếm RUBY
+Có nhiều cách để kiếm thêm RUBY. Bạn chỉ cần thực hiện một số thao tác đơn giản như: cài và chạy ứng dụng hoặc chia sẻ với bạn bè.
+Kiếm
+Bạn vừa dừng chia sẻ nên sẽ không nhận được RUBY.
+Oops! Có lỗi xảy ra. Bạn sẽ không nhận được RUBY
+Kích hoạt toàn bộ các gói bài hát
+Loại bỏ toàn bộ quảng cáo trong ứng dụng
+Kích hoạt tất cả các nhạc cụ
+Chơi các file Midi, Karaoke.
+Hãy đánh giá ứng dụng này.
+Hãy cài ứng dụng này để nhận RUBY.
+Hãy bắt đầu tìm kiếm mà bạn yêu thích.
+Xin hãy chờ 5 phút để chơi toàn bộ bài hoặc tiếp tục chơi thử 60s ngay bây giờ‎.
+Mua gói chơi MIDI.
+Chơi thử 60s
+Cảnh báo
+Xin hãy chờ giây lát...
+Không tìm thấy bài hát nào
+Không thể xử lý file vừa chọn.
+Đang chờ...
+ Không thể đăng trạng thái của bạn. Vui lòng kiểm tra lại kết nối mạng 
+Gợi ý
+Hãy bấm vào các phím được gợi ý để chơi đúng giai điệu
+Nhạc cụ
+Hãy bấm vào đây để mở danh sách các nhạc cụ
+Bài hát
+Hãy bấm vào đây để mở danh sách các bài hát
+Cửa hàng
+Nhạc cụ VIP
+Hãy chọn thẻ này để mở danh sách các nhạc cụ có chất lượng âm thanh cao
+Bài hát
+Đây là nơi bạn có thể tìm thấy các bài hát sẵn có hoặc các gói đã được mua.
+Chia sẻ
+Duyệt file
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Di chuyển
+Hãy trượt ngón tay sang hai phía để di chuyển các phím đàn đến vị trí mong muốn
+Thu/phóng bàn phím
+Sử dụng hai ngón tay để phóng to hoặc thu nhỏ bàn phím Piano
+Đổi chiều cao
+Sử dụng 3 ngón tay để thay đổi chiều cao bàn phím
+Cập nhật RUBY thất bại. Xin hãy thử lại sau!
+Hãy cài game nào đó để nhận được RUBY
+File đã tồn tại. Vui lòng chọn một tên khác
+Mức độ dễ
+Mức độ khó
+Tất cả nhạc cụ
+Tất cả bài hát
+Xử lý file MIDI
+Bạn đã nhận được 
+Chơi lại
+Bài ngẫu nhiên
+Ứng dụng hay
+Học chơi Guitar
+Upright Piano
+Vẽ cho trẻ em
+Đàn piano cho trẻ em
+File MIDI
+Chào mừng bạn! Hãy bấm vào đây để thử chơi một bài hát.
+Piano Số
+App khác
+Tìm và chọn một tập tin .mid hoặc .kar trên thiết bị của bạn để chơi với Piano Teacher
+Chúng tôi sẽ đăng khuyến nghị với một liên kết đến Piano Teacher trên Google Play Store trên tường facebook của bạn với nội dung: \"I love this app\"
+OK, Tôi đồng ý chỉ một lần này
+Đóng
+Âm thanh hiện tại: âm thanh chất lượng cao / 
+  Âm thanh hiện tại: MIDI âm thanh / 
+bài hát
+Bạn đã cho phép chúng tôi đăng bài lên tường Facebook của bạn: "I love this app" với các liên kết của Piano Teacher\'s.
+Tôi đồng ý
+Không, không bao giờ
+Cảm ơn bạn vì đã yêu thích Piano Teacher.
+Giới thiệu trên facebook của tôi
+Giới thiệu trên Twitter của tôi
+Cảm ơn bạn đã chia sẻ ứng dụng trên mạng xã hội Facebook.
+Cảm ơn bạn đã chia sẻ trên mạng xã hội Twitter.
+Kiếm được 100 RUBY miễn phí
+Nhóm chia sẻ
+Piano giao hưởng
+Tồi, 1 sao
+Gửi
+Bình luận của bạn: 
+Bản nhạc
+Hỗ trợ
+Cài đặt
+Bạn không thể chơi file vừa chọn trong chế độ này
+File đã được lưu tại
+File lưu không thành công tại 
+Giao dịch không thể xác thực. Xin vui lòng liên hệ chúng tôi qua địa chỉ hòm thư paid@rubycell.com
+Tuyển tập giáng sinh
+Tuyển tập thiếu nhi
+Tuyển tập nhạc cổ điển
+Lựa chọn
+Chơi tất cả các nốt trong khoảng từ %1$s đến %2$s
+Không hiển thị hộp thoại này nữa
+Chưa tải
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Bản cập nhật
+Tôi đã biết
+Kho nhạc cụ
+Kho bài nhạc
+Mua bằng %d Ruby
+Chơi thêm bản nhạc khác để nhận thêm Ruby
+Piano Teacher yêu cầu một số quyền sau: \n%s\n\nNếu có bất cứ câu hỏi về ứng dụng, xin vui lòng liên hệ với chúng tôi tại support@rubycell.com
+Đọc Phone ID ( IMEI ) : tạo ID cho từng khách hàng khi mua vật phẩm (đặc biệt là những khách hàng từng thực hiện giao dịch trên ứng dụng).
+Truy cập SD card : cho phép ứng dụng tải dữ liệu cần thiết và cập nhật dữ liệu.
+Rất tiếc! Đăng ký không được hỗ trợ trên thiết bị của bạn.
+Đăng ký
+Làm mới
+Đã đăng ký
+Đăng ký của bạn sẽ được kết thúc vào lúc %s
+Đăng ký của bạn sẽ được tự động gia hạn %s
+%s tháng không quảng cáo
+1 tuần không quảng cáo
+1 năm không quảng cáo
+Loại bỏ tất cả quảng cáo trong vòng %s tháng
+Loại bỏ tất cả quảng cáo trong vòng 1 tuần
+Loại bỏ tất cả quảng cáo trong vòng 1 năm
+Nâng cấp
+Đồng bộ Ruby không thành công
+Chặn quảng cáo có thể là nguyên nhân khiến việc đồng bộ Ruby thất bại. Vui lòng bỏ chặn quảng cáo trên thiết bị để đồng bộ Ruby
+Dùng thử Sound Engine mới (BETA)
+Sound Engine mới : Sửa lỗi sai nốt nhạc và khởi động chậm trên một số thiết bị.\n\nNếu có vấn đề gì với tính năng này. Xin vui lòng vào phần %s ứng dụng -> %s -> Bỏ chọn \"%s\" và khởi động lại Piano Teacher để khôi phục lại các thiết lập trước đó."
+Đã có bản cập nhật
+Đừng hiện lại
+Nhận thưởng 
+1000%s cho lần đầu tiên đăng nhập  
+Đăng nhập ngay và đồng bộ dữ liệu của bạn (Ruby, Cài đặt) trên mọi thiết bị 
+"Mức độ trung bình "
+Nhạc của tôi
+"Nhạc đã tải "
+"Đã chơi gần đây "
+CHƠI\nTRACK NÀY
+CHƠI\nTOÀN BỘ
+Nghe thử
+Dừng
+Chia sẻ
+Tìm trên Google 
+Tìm nhạc MIDI 
+Cách tìm file MIDI 
+Lọc theo quốc gia
+Nhạc quốc tế
+Tệp không còn tồn tại. Bài hát sẽ bị xóa khỏi danh sách.
+MỞ FILE KHÁC
+"Không có bài yêu thích "
+Không có bài chơi gần đây
+Không tìm thấy kết quả cho từ khóa. Bấm để thử lại
+Không có bài hát
+Tìm kiếm từ:
+Nhấn Tìm kiếm để xem kết quả từ Online & Search
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+"Xem thêm kết quả từ Google "
+"Không tìm thấy kết quả phù hợp. Xin hãy thử tìm trên Google "
+Mua thêm bài hát
+NOT TRANSLATED!!!
+Nhận thưởng
+Thử thách
+Phần thưởng
+"Không thể tải được dữ liệu Thử thách. Xin hãy thử lại! "
+Thử lại
+NOT TRANSLATED!!!
+Thử thách trong ngày
+Kết quả Thử thách
+NOT TRANSLATED!!!
+Hạng 1
+Hạng 2
+Hạng 3
+Hoàn thành bản nhạc
+Songbook
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Để sau
+Top từ khóa
+Bạn có muốn báo lỗi cho chúng tôi?
+Rất tiếc thiết bị của bạn không thể nghe thử bài hát do một lỗi không mong muốn.
+Vui lòng mô tả kèm thông tin thiết bị; phiên bản Android; phiên bản ứng dụng, giúp chúng tôi hiểu và khắc phục lỗi nhanh hơn
+Xem video quảng cáo
+Xem hết video quảng cáo này để nhận Ruby miễn phí
+Xem ngay
+Đổi tên
+Phản hồi bản Beta
+Mời bạn chia sẻ một vài ý kiến về phiên bản Beta mới
+Đóng góp của bạn sẽ giúp chúng tôi cải thiện Piano Teacher
+Bạn nghĩ bản Beta mới thế nào?
+Không tốt
+Tốt
+Tôi thích bản hiện tại hơn
+Tôi rất thích!
+Vì sao bạn thích bản mới?
+Vì sao bạn không thích bản mới?
+Theo bạn chúng tôi nên làm gì để ứng dụng tốt hơn?
+TIẾP
+QUAY LẠI
+Khó dùng phức tạp
+Ứng dụng tự dừng, không chạy
+Tôi thích giao diện cũ
+Giao diện đẹp
+Kho nhạc cụ
+Cảm ơn ý kiến của bạn!
+ĐỂ SAU
+NOT TRANSLATED!!!
+BỎ QUA
+TIẾP TỤC
+Đang gửi phản hồi
+Bạn được thưởng %s Ruby 
+Cảm ơn bạn đã xem video
+Bạn có chắc muốn mua gói bài hát này?
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Thay đổi âm lượng
+Thay đổi âm lượng theo vị trí bấm phím. Vị trí cao phát âm lượng nhỏ, vị
+        trí thấp phát âm lượng to
+    
+Âm lượng tự động
+Tự động phát âm lượng theo dữ liệu bài hát
+Thử thách mỗi ngày
+Tham gia thử thách & nhận thêm Ruby
+NOT TRANSLATED!!!
+Nốt nhạc sẽ dừng lại và đợi bạn bấm phím
+Nốt nhạc sẽ được chơi liên tục
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Cài đặt nâng cao
+Chế độ bàn phím
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Thành viên Premium
+Đàn đơn
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Đàn đơn có nốt hướng dẫn
+Đàn đơn không có nốt hướng dẫn
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Tham gia Thử thách và trở thành Quán quân
+Năm
+Năm
+Tháng
+Tháng
+Tuần
+Tuần
+Ngày
+Ngày
+Fantastic! You are the champion
+Awesome! You won the silver medal
+Great Effort!! You got the bronze medal
+Great job! You\'re in top 10. Try harder next time to get more reward
+High Five!! You got rank %s. Keep scoring!
+Today competition will end soon. Please wait for the next competition.
+Xếp hạng
+Bật thông báo 
+Bạn có muốn bật thông báo cho %s để nhận bài hát thử thách, phần thưởng và các tin tức khác?
+Đừng hiện lại
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Chọn track cho tay phải
+Chọn track cho tay trái
+Bật
+Tắt
+Không thể upload file mẫu
+Upload bài hát
+Input song information
+Tiêu đề bài hát
+Tác giả hay Nghệ sĩ
+Xác định track để chơi
+Xác định track cho tay phải/trái để mọi người chọn đúng track để chơi 
+Chi tiết track 
+Track đã bị tắt không thể chạy nền 
+Chọn track để chơi
+Im lặng
+Đề xuất cho tay phải 
+Đề xuất cho tay trái
+ĐÃ THÍCH
+Bài hát đã thích
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+Bạn có thích %s không?
+Tại sao bạn không thích %s?
+Bạn có thể cho chúng tôi biết những gì làm cho bạn không hài lòng?
+Gửi phản hồi
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
+NOT TRANSLATED!!!
